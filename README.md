@@ -10,4 +10,4 @@
 - 📫  **hauari.iliyass@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirelhalimi&show_icons=true" alt="abirelhalimi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliyasshauari&show_icons=true" alt="iliyasshauari" /></p>
