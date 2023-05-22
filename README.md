@@ -10,5 +10,4 @@
 - 📫  **hauari.iliyass@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyasshauari&layout=compact&hide=html" alt="iliyasshauari" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirelhalimi&show_icons=true" alt="abirelhalimi" /></p>
