@@ -11,3 +11,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iliyasshauari&show_icons=true" alt="iliyasshauari" /></p>
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iliyasshauari&layout=compact&hide=html" alt="iliyasshauari" /></p>
