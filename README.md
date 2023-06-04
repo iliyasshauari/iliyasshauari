@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iliyass</h1>
-<h3 align="center">I'm a Software Development Engineer with a passion for web and blockchain development</h3>
+<h3 align="center">I'm a Software Development Engineer with a passion for web and software development</h3>
 
 <p align="center">
 <a href="https://twitter.com/ilyass0627" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ilyass0627" height="30" width="30" /></a>
